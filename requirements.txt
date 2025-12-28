@@ -1,0 +1,27 @@
+# Core
+python-dotenv
+pandas
+psycopg2-binary
+requests
+
+# Azure
+azure-search-documents
+azure-identity
+openai
+azure-functions
+azure-monitor-opentelemetry
+
+# Backend (Django)
+django
+djangorestframework
+django-cors-headers
+django-environ
+psycopg2-binary
+
+# Testing
+pytest
+pytest-django
+pytest-mock
+
+# Utilities
+tiktoken
