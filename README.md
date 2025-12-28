@@ -42,7 +42,7 @@ graph TD
 - **Design System**: Built with Tailwind CSS and Lucide icons for a premium, accessibility-first experience.
 - **Real-time UX**: Features typing indicators, feedback loops (thumbs up/down), and source expansion panels.
 
-## 🛠️ Minimal Setup
+## Setup
 
 ### Prerequisites
 - Python 3.9+ | Node.js 18+ | Azure Subscription
